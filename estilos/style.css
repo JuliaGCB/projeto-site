@@ -1,19 +1,15 @@
-*{
+* {
   font-family: arial;
   font-size: 16px;
-  
 }
 
-body{
+body {
   background-color: blue;
-
 }
 
-main{
+main {
   background-color: white;
   width: 500px;
   margin: auto;
   padding: 10px;
-
-
 }
